@@ -38,31 +38,92 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<h3>🔗 Programming Languages</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
 </p>
 
-### Machine Learning & Data Science
+<h3>Machine Learning & Data Science</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  </a>
+
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </a>
+
+  <a href="https://xgboost.readthedocs.io/">
+    <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  </a>
 </p>
 
-### Web Development
+<h3>Web Development</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,firebase" />
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <a href="https://vitejs.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
 </p>
 
-### Tools & Technologies
+<h3>Tools & Technologies</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
 ---
@@ -79,87 +140,8 @@ AI-powered sustainability platform that predicts carbon emissions and provides e
 ### ✈️ Flight Price Prediction
 Built ML models to predict airline ticket prices using historical flight data.
 
-## 🛠️ Tech Stack
+---
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.java.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://keras.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://xgboost.readthedocs.io/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://vitejs.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://firebase.google.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.postman.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  </a>
-</p>
 ## 📈 GitHub Stats
 
 <p align="center">
