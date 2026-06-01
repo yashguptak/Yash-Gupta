@@ -1,18 +1,15 @@
 <h1 align="center">Hey, I'm Yash Gupta 👋</h1>
 
 <p align="center">
-  <em>Machine Learning Engineer | AI Enthusiast | Data Science | Data Analyst | MCA Student</em>
+  <b>Machine Learning Engineer | AI Enthusiast | Data Science | Data Analyst | MCA Student</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-guptak29">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yash-guptak29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:Yashguptakkms2@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         width="40" height="40" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -20,167 +17,160 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing Master of Computer Applications (MCA) at NorthCap University
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at NorthCap University
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 📊 Experienced in Data Analysis, Model Building & Explainable AI
-- 🌱 Currently building AI-powered Sustainability Solutions
+- 💻 Skilled in Full Stack Development using React & FastAPI
+- 🌱 Currently building **AI-powered Sustainability Solutions**
 - 🔍 Interested in NLP, Computer Vision, Deep Learning, and Generative AI
-- 🚀 Building end-to-end AI applications using modern technologies
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 What I'm Working On
 
-- 🌿 Developing GreenGauge – AI-Powered Carbon Footprint Prediction Platform
-- 🤖 Working on Machine Learning & Deep Learning projects
-- 📈 Exploring Predictive Analytics and Explainable AI
-- 🔍 Implementing LIME & SHAP for model interpretability
-- 💡 Learning Generative AI and Large Language Models
+- 🌿 GreenGauge – AI-Powered Carbon Footprint Prediction Platform
+- 🤖 Machine Learning & Deep Learning Projects
+- 📈 Data Science & Predictive Analytics
+- 🔍 Explainable AI using LIME & SHAP
+- 🚀 Full Stack AI Applications
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" />
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,firebase" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🌿 GreenGauge
+AI-powered sustainability platform that predicts carbon emissions and provides environmental insights.
+
+**Tech Stack:** React, FastAPI, Machine Learning, Firebase
+
+---
+
+### ✈️ Flight Price Prediction
+Built ML models to predict airline ticket prices using historical flight data.
+
+## 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         width="50" height="50" alt="Python"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-         width="50" height="50" alt="C++"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-         width="50" height="50" alt="C"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.java.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         width="50" height="50" alt="Java"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-         width="50" height="50" alt="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-         width="50" height="50" alt="TensorFlow"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://keras.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"
-         width="50" height="50" alt="Keras"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-         width="50" height="50" alt="Scikit Learn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://xgboost.readthedocs.io/">
-    <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"
-         alt="XGBoost"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" width="50" height="50"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-         width="50" height="50" alt="React"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://vitejs.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
-         width="50" height="50" alt="Vite"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-         width="50" height="50" alt="Tailwind CSS"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://fastapi.tiangolo.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-         width="50" height="50" alt="FastAPI"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://firebase.google.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-         width="50" height="50" alt="Firebase"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-         width="50" height="50" alt="Git"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         width="50" height="50" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-         width="50" height="50" alt="VS Code"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.postman.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-         width="50" height="50" alt="Postman"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-         width="50" height="50" alt="Linux"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   </a>
 </p>
-
----
-
 ## 📈 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=yashguptak&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashguptak&theme=blue_navy&hide_border=false&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashguptak&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting! Let’s collaborate and build something awesome 🚀</i>
-</p>
+## 🏆 Achievements
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yashguptak&color=82aaff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+- 🎯 Machine Learning Internship Experience
+- 📊 Built Multiple End-to-End ML Projects
+- 🚀 Developed Full Stack AI Applications
+- 💡 Experience with Explainable AI Techniques
