@@ -93,7 +93,7 @@ Machine learning system for predicting student placement outcomes.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashguptak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yashguptak&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
